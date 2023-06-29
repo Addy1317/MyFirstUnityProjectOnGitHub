@@ -1,3 +1,3 @@
 # MyFirstUnityProjectOnGitHub
-[Unity Fundamental]
-Assignment 5 - Setting up Unity Project on Git
+Assignment 6 - Unity UI Assignment with Git
+Unity_UI_Basics
